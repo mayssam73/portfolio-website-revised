@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function home_main_text() {
     return (
-        <div className="text-xl text-center flex flex-col w-screen justify-center items-center">
+        <div className="-ml-8 text-xl text-center flex flex-col w-screen justify-center items-center">
             <div>
                 Nice to meet you!
             </div>
